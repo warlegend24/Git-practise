@@ -1,0 +1,4 @@
+#specify all the file names you want not to be added to the remote repository to be visible on the remote repository or the local repository
+api-keys.txt
+passwords.txt
+hide.txt
